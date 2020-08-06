@@ -2,7 +2,7 @@
  * 
  * Greedy Menu Jquery plugin
  *
- * @author Brian Tweed <brtweed@outlook.com>
+ * @author BrianTweed
  * @version 1.1.5
  * 
  */
